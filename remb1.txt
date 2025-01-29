@@ -3,3 +3,8 @@ remote branch b1 file
 
 line 2
 line3
+
+
+
+line a
+line b
