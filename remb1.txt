@@ -1,1 +1,5 @@
 remote branch b1 file
+
+
+line 2
+line3
